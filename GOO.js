@@ -54,7 +54,6 @@ var SampleAnnealingSolution;
         decreaseRate: 0.03,
         initState: 0
     };
-    console.log(Annealing.Solution(quadratic));
 })(SampleAnnealingSolution || (SampleAnnealingSolution = {}));
 //interface quadraticEquasion extends Problem {
 //    fitness:(x1:number,x2:number)=>number

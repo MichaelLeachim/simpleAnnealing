@@ -59,7 +59,7 @@ module SampleAnnealingSolution {
         decreaseRate:0.03,
         initState:0
     }
-    console.log(Annealing.Solution(quadratic))
+    // console.log(Annealing.Solution(quadratic))
 }
 
 
